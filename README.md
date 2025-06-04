@@ -1,7 +1,3 @@
-Sure! Here's a simple, beginner-friendly README for your Gmail-to-Google-Sheets order tracking script:
-
----
-
 # 📦 Food Order Tracker for Gmail (DoorDash & Deliveroo)
 
 This Google Apps Script helps you automatically track your food orders from **DoorDash** and **Deliveroo** by extracting details from your email and saving them to a **Google Sheet**.
